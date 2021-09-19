@@ -53,16 +53,16 @@ bulan_ttl = {"01": "Januari", "02": "Februari", "03": "Maret", "04": "April", "0
 
 def logo():
 	os.system("clear")
-	print("""\x1b[0;32m╔════════════════════════════════════════════╗
-\x1b[0;33m║WELCOME TO MULTI CRACK TOOLS .  ║
-\x1b[0;33m║ AUTHOR =        HAMAYUN KHAN. ║
-\x1b[0;33m╚════════════════════════════════════════════╝
-\x1b[0;33m ---------------------------------------------
+	print("""\x1b[0;32m╔═════════════════════════════╗
+\x1b[0;32m║WELCOME TO MULTI CRACK TOOLS .                     ║
+\x1b[0;32m║ AUTHOR    =    HAMAYUN KHAN.                     ║
+\x1b[0;32m╚═══════════════════════════════════════════╝
+\x1b[1;93m ---------------------------------------------
 \x1b[0;33m╔════════════════════════════════════════════╗
-\x1b[0;33m║#WEBSITE     : FOLLOW MY FACEBOOK TO FIND IT.║
-\x1b[0;33m║#FACEBOOK : NAME [Hamayun Khan ].       ║
-\x1b[0;33m║#GITHUB       : https://github.com/hamayun02.  ║
-\x1b[0;33m║#WHATSAPP : +923319258250                   ║
+\x1b[0;33m║#WEBSITE  : FOLLOW MY FACEBOOK TO FIND IT.║
+\x1b[0;33m║#FACEBOOK : NAME [Hamayun Khan ].         ║
+\x1b[0;33m║#GITHUB   : https://github.com/hamayun01  ║
+\x1b[0;33m║#WHATSAPP : +923319258250                 ║
 \x1b[0;33m╚════════════════════════════════════════════╝""")
 def login():
 	os.system("clear")
@@ -108,7 +108,7 @@ def menu():
 	print("\n\033[1;92m[\033[1;92m01\033[1;92m] CRACK ID FROM PUBLIC FRIENDS")
 	print("\033[1;92m[\033[1;92m02\033[1;92m] CRACK ID FROM PUBLICK FOLLOWERS")
 	print("\033[1;92m[\033[1;92m03\033[1;92m] MULTIPLE-ID's CRACK\033[1;93m [ \033[1;95mPRO \033[1;97m]")
-	print("\033[1;92m[\033[1;92m04\033[1;92m] Chack Crack Results")
+	print("\033[1;92m[\033[1;92m04\033[1;92m] Check Crack Results")
 	print("\033[1;92m[\033[1;92m05\033[1;92m] USER-AGENT SETTINGS\033[1;93m [ \033[1;95mPRO \033[1;97m]")
 	print("\033[1;92m[\033[1;92m00\033[1;92m] Exit\033[1;92m [ \033[1;92mDELETE TOKEN \033[1;97m]")
 	Bilal = raw_input("\n\033[1;96m[\033[1;92m+\033[1;92m] CHOOSE : ")
