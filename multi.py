@@ -53,7 +53,7 @@ bulan_ttl = {"01": "Januari", "02": "Februari", "03": "Maret", "04": "April", "0
 
 def logo():
 	os.system("clear")
-print("""\
+print("""
 \xlb[0;32m╔═════════════════════════════╗
 \x1b[0;32m║WELCOME TO MULTI CRACK TOOLS      ║
 \x1b[0;32m║ AUTHOR    =    HAMAYUN KHAN      ║
